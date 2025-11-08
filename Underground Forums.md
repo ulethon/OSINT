@@ -1,7 +1,7 @@
 <h1 align="center">🕵️ Underground & Miscellaneous Forums</h1>
 <h2>🧠 Purpose</h2>
 <p>For <b>Cybersecurity Research</b>, <b>OSINT Investigations</b>, <b>Journalism</b>, and <b>Education purpose</b> only.</p>
-<h2>📋 Surface Forums List</h2>
+<h2>📋 Forums List</h2>
 <table>
   <thead>
     <tr>
